@@ -6,12 +6,7 @@ import { getFirestore } from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB4x8byBapDP-3y35y0IrjK-ioMQ-D_4hk",
-  authDomain: "pantryapp-5e4c2.firebaseapp.com",
-  projectId: "pantryapp-5e4c2",
-  storageBucket: "pantryapp-5e4c2.appspot.com",
-  messagingSenderId: "272551744570",
-  appId: "1:272551744570:web:843af5f52089d5d29fd103"
+  //use your API keys 
 };
 
 // Initialize Firebase
